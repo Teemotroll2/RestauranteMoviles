@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720369871668",
+    "project_id": "proyectoricomoviles",
+    "storage_bucket": "proyectoricomoviles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720369871668:android:ca8cf3606a264b354c1361",
+        "android_client_info": {
+          "package_name": "com.example.restaurantericosql"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720369871668-btcp6mcpcvnbbphtddd0d9v6m427ql93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA_I7tyt68EOCYf7lQFJHGP7eKDedUgYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720369871668-btcp6mcpcvnbbphtddd0d9v6m427ql93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
